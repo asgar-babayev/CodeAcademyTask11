@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5QO0+pF+mbgkTq3fDURBFDDdIkC9LvoZUi5sg6wJv5iMbchYRSTBrcMSksvPxETJwICCB+eTZrBMp0TOKNqyOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asger\\Desktop\\Tasks\\CastingOperatorOverloadTask\\CastingOperatorOverloadTask\\CastingOperatorOverloadTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
