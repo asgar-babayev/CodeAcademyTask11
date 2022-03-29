@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5QO0+pF+mbgkTq3fDURBFDDdIkC9LvoZUi5sg6wJv5iMbchYRSTBrcMSksvPxETJwICCB+eTZrBMp0TOKNqyOw==",
+  "dgSpecHash": "OJuxfceukWyJ3bT0zQSK6db78Fn5MH8348wOU0s3OiT9DxqfGODno8hTnYfJsoyWVc7AAgjSLei1dk90LR3JOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asger\\Desktop\\Tasks\\CastingOperatorOverloadTask\\CastingOperatorOverloadTask\\CastingOperatorOverloadTask.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\asger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\tu7609td3\\Desktop\\CodeAcademyTask11\\CastingOperatorOverloadTask\\CastingOperatorOverloadTask.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -12,3 +12,17 @@ C:\Users\asger\Desktop\Tasks\CastingOperatorOverloadTask\CastingOperatorOverload
 C:\Users\asger\Desktop\Tasks\CastingOperatorOverloadTask\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.dll
 C:\Users\asger\Desktop\Tasks\CastingOperatorOverloadTask\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.pdb
 C:\Users\asger\Desktop\Tasks\CastingOperatorOverloadTask\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.genruntimeconfig.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\bin\Debug\netcoreapp3.1\CastingOperatorOverloadTask.exe
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\bin\Debug\netcoreapp3.1\CastingOperatorOverloadTask.deps.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\bin\Debug\netcoreapp3.1\CastingOperatorOverloadTask.runtimeconfig.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\bin\Debug\netcoreapp3.1\CastingOperatorOverloadTask.runtimeconfig.dev.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\bin\Debug\netcoreapp3.1\CastingOperatorOverloadTask.dll
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\bin\Debug\netcoreapp3.1\CastingOperatorOverloadTask.pdb
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.csproj.AssemblyReference.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.AssemblyInfoInputs.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.AssemblyInfo.cs
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.csproj.CoreCompileInputs.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.dll
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.pdb
+C:\Users\tu7609td3\Desktop\CodeAcademyTask11\CastingOperatorOverloadTask\obj\Debug\netcoreapp3.1\CastingOperatorOverloadTask.genruntimeconfig.cache

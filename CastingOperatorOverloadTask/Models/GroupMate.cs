@@ -33,13 +33,15 @@ namespace CastingOperatorOverloadTask.Models
             {
                 for (int i = 0; i < _students.Length; i++)
                 {
+                    int minIndex = i;
                     for (int j = i; j < _students.Length; j++)
                     {
                         if (_students[j] > _students[i])
                         {
-                            _students[i].Point = _students[i].Point + _students[j].Point;
-                            _students[j].Point = _students[i].Point - _students[j].Point;
-                            _students[i].Point = _students[i].Point - _students[j].Point;
+                            minIndex = j;
+                            Student temp = _students[minIndex];
+                            _students[minIndex] = _students[i];
+                            _students[i] = temp;
                         }
                     }
                 }
